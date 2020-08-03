@@ -1,5 +1,6 @@
 # Relational-DBMS
-Database System Project which basically calculates the present NF form of any given functional dependencies and then converts the given Functional dependencies to the next NF form untill BCNF
+Database System Project 
+The above project is a Table Normalizer which basically calculates the present NF form of any given functional dependencies and then converts the given Functional dependencies to the next NF form untill BCNF
 ## Team 
 1) Rishab Nahar
 2) Rohan Sinha
